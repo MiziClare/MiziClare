@@ -21,7 +21,7 @@ I'm a **Master of Engineering (ECE)** student at the **University of Ottawa**, f
 <br/>
 
 - **Frontend** (Learning & Practice):Vue.js, React (project-based, AI-assisted), HTML5/CSS3
-- **AI Agent & LLM** (Learning & Practice): Spring AI , FastAPI , LangChain, RAG.
+- **AI Agent & LLM** (Learning & Practice): Spring AI , LangChain, RAG.
 
 ---
 
