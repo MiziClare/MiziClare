@@ -26,9 +26,9 @@ I'm a **Master of Engineering (ECE)** student at the **University of Ottawa**, f
 ---
 
 ### 📂 Featured Projects
-#### [🏥 uOttawa eHospital Project: AI-Agent Driven Clinical Doc Workflow System](https://github.com/MiziClare/ehospital-agent-doc-workflow)
+#### [🏥 uOttawa eHospital Project: AI-Agent Driven Clinical Doc Workflow System (FastAPI)](https://github.com/MiziClare/ehospital-agent-doc-workflow)
 #### [🌳 A Visitor iOS App for Ness Garden](https://github.com/MiziClare/ios-visitor-app-for-ness-botanical-garden)
-#### [🏋️ Gym-With-AI-Agent: Integrated Management System](https://github.com/MiziClare/gym-app-with-ai-agent)
+#### [🏋️ A SpringBoot Gym App with AI-Agent Customer Service: Integrated Management System](https://github.com/MiziClare/gym-app-with-ai-agent)
 
 
 
