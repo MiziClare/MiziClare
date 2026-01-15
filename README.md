@@ -1,12 +1,12 @@
-# Hi, I'm Xiaoyi Zhang 👋
+# Hi, I'm Xiaoyi 👋
 
 I'm a **Master of Engineering (ECE)** student at the **University of Ottawa**, focusing on Backend Development and AI Integration. I am currently seeking a **2026 Summer CO-OP** position.
 
 ---
 
 ### 🚀 About Me
-- 🇨🇦 **MEng in Electrical and Computer Engineering** @ University of Ottawa.
-- 🇬🇧 **BSc in Computer Science** (First Class Honours) @ University of Liverpool.
+- 🎓 **MEng in Electrical and Computer Engineering** @ University of Ottawa.
+- 🎓 **BSc in Computer Science** (First Class Honours) @ University of Liverpool.
 - 🛠️ Specializing in **Java (Spring Boot)**, **Python (FastAPI)**, and **Cloud-Native** technologies.
 - 🤖 Passionate about **AI-Agent** workflows and large language model (LLM) integrations.
 
