@@ -30,7 +30,7 @@ I'm a **Master of Engineering (ECE)** student at the **University of Ottawa**, f
 #### [🏋️ A Gym App with AI-Agent Customer Service: Integrated Management System (SpringBoot + Vue)](https://github.com/MiziClare/gym-app-with-ai-agent)
 #### [🍩 Intelligent Food Logger: AI Nutritional Analysis App (SpringBoot, SpringAI + React)](https://github.com/MiziClare/food-nutrition-log-app)
 #### [🌳 A Visitor iOS App for Ness Botanical Garden (Swift)](https://github.com/MiziClare/ios-visitor-app-for-ness-botanical-garden)
-
+...
 
 
 ---
